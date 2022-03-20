@@ -679,6 +679,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Transfer Release with Duration.vi" Type="VI" URL="../Transfer Release/Commands/Transfer Release with Duration.vi"/>
 			<Item Name="Intake Arm Down.vi" Type="VI" URL="../Intake Arm/Commands/Intake Arm Down.vi"/>
 			<Item Name="Intake Arm Up.vi" Type="VI" URL="../Intake Arm/Commands/Intake Arm Up.vi"/>
+			<Item Name="Read Driver Jostick.vi" Type="VI" URL="../Support Code/Read Driver Jostick.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
